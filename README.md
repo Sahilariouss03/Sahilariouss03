@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahilariouss03
 - 👀 I’m interested in coding and open source
 - 🌱 I’m currently learning full stack web devlopment
-- 💞️ I’m looking to collaborate on open source preojects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me -mail at sahilkumarkumar2004@gmail.com
 
 <!---
