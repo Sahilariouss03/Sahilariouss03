@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sahilariouss03
+- 👋 Hi, I’m Sahil Kumar
 - 👀 I’m interested in coding and open source
 - 🌱 I’m currently learning Full Stack Web Devlopment
 - 💞️ I’m looking to collaborate on open source projects
